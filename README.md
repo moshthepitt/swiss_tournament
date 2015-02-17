@@ -28,7 +28,7 @@ This assumes the above "Requirements" are installed
 
 1. Navigate to the project folder
 2. Use psql to create a database table called "tournament"
-3. Use the command \i tournament.sql to import tournament.sql into psql.  This should create all the tables needed
+3. Use the psql command \i tournament.sql to import tournament.sql into psql.  This should create all the tables needed
 4. In your command line, run python tournament_test.py to ascertain that everything works as it should
 5. ???
 6. Profit
